@@ -1,0 +1,85 @@
+body {
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+	background-color: #F4F4F4;	
+
+}	
+footer{
+	margin-top:300px;
+	background:#00AEEF;
+	height:50px;
+	color:white;
+	padding:10px 50px;
+	max-width:1435px;
+	margin-top:160px;
+}
+
+
+p#f1{
+	float:left;
+}
+
+p#f2{
+	float:right;
+	margin-right:20px;
+}
+
+footer img{
+	width:40px;
+	margin-top:5px;
+	float:right;
+}
+	
+#h{
+	min-height:300px;
+	margin:0px auto;
+	margin-top:20px;
+	background:url("../img/lpb1.png") no-repeat -50px -500px;
+
+}
+
+
+.pb{
+	color:white;
+	float:left;
+	font-size:50px;	
+	padding:60px 50px;
+}
+
+
+td,table {
+	border-collapse: collapse;
+	border:2px solid white;
+	width: 775px;
+	padding: 20px;
+	margin: 30px;
+	text-align:center;
+	color:white;
+	font-size:18px;
+	background-color:#00AEEF;
+}
+		
+		
+#bb{
+	background:#00AEEF;
+	padding:5px 10px;
+	color:white;
+}
+
+#cc{
+	background:#00AEEF;
+	padding:5px 10px;
+	color:white;
+	font-weight:bold;
+	font-size:30px;
+}
+
+
+.pc{
+	margin-top:50px;
+	padding:50px 145px;
+	line-height:3.0;
+	width:900px;
+	border-style:solid;
+	border-width:5px;
+	border-color:#00AEEF;
+}
